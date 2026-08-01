@@ -1,0 +1,51 @@
+id,title,type,field,description,skills_required,min_gpa,location,amount,deadline
+1,Merit Excellence Scholarship,scholarship,Computer Science,Full scholarship for outstanding CS students with strong programming background,Python Java Data Structures Algorithms,9,India,10000,12/31/2026
+2,Women in STEM Award,scholarship,Engineering,Supporting women pursuing engineering degrees with focus on innovation,Mathematics Physics Problem Solving,8.5,India,5000,11/30/2026
+3,Google Summer Internship,internship,Computer Science,10-week internship at Google working on large scale software systems,Python Java C++ Algorithms System Design,8,"Bengaluru, India",8000,3/15/2026
+4,National Science Foundation Grant,scholarship,Science,Research scholarship for students pursuing scientific research in any science field,Research Writing Laboratory Skills Physics Chemistry Biology,8,India,12000,10/31/2026
+5,Microsoft Software Intern,internship,Computer Science,Software engineering internship at Microsoft working on cloud products,C# Azure Cloud Computing OOP,8.5,"Hyderabad, India",7500,4/1/2026
+6,Data Science Fellowship,scholarship,Data Science,Fellowship for students interested in data analysis and machine learning,Python Machine Learning Statistics SQL,7.5,India,8000,9/30/2026
+7,Amazon Web Services Intern,internship,Computer Science,Cloud computing internship working on AWS infrastructure and services,Python AWS Cloud Linux DevOps,8,"Pune, India",9000,3/31/2026
+8,Medical Research Scholarship,scholarship,Medicine,Supporting future doctors with interest in medical research,Biology Chemistry Research Writing,8,India,15000,8/31/2026
+9,Business Leadership Award,scholarship,Business,Award for business students showing leadership and entrepreneurial spirit,Leadership Management Communication Business Strategy,8,India,6000,7/31/2026
+10,Tesla Engineering Intern,internship,Engineering,Hardware and software engineering internship at Tesla working on EV technology,Electrical Engineering C++ Embedded Systems CAD,7.5,"Bengaluru, India",8500,4/15/2026
+11,Environmental Science Grant,scholarship,Environmental Science,Supporting students passionate about solving climate change and sustainability,Environmental Science Chemistry Research Data Analysis,8.5,India,7000,11/15/2026
+12,Facebook Meta Intern,internship,Computer Science,Product and engineering internship at Meta working on social media products,Python JavaScript React Product Management,8,"Bengaluru, India",8000,3/20/2026
+13,Cybersecurity Scholarship,scholarship,Computer Science,For students pursuing cybersecurity and network security careers,Networking Security Python Ethical Hacking,7,India,9000,10/15/2026
+14,Apple Design Intern,internship,Design,UI/UX design internship at Apple working on iOS and macOS products,Figma UI UX Design Prototyping User Research,8,"Bengaluru, India",7000,4/30/2026
+15,Economics Research Grant,scholarship,Economics,Research grant for economics students interested in policy and finance,Economics Statistics Research Writing Policy Analysis,7.5,India,5500,9/15/2026
+16,IBM Data Analytics Intern,internship,Data Science,Data analytics internship at IBM working on business intelligence,Python SQL Tableau Data Visualization Statistics,7,"New Delhi, India",6500,5/1/2026
+17,Mechanical Engineering Award,scholarship,Engineering,For students excelling in mechanical engineering and manufacturing,CAD Thermodynamics Mechanics Manufacturing,9,India,8000,8/15/2026
+18,Netflix Machine Learning Intern,internship,Data Science,Machine learning internship at Netflix working on recommendation systems,Python Machine Learning Deep Learning TensorFlow,9,"Bengaluru, India",9500,3/15/2026
+19,Law School Diversity Grant,scholarship,Law,Supporting diversity in legal education for underrepresented students,Research Writing Analytical Skills Communication,8,India,10000,10/1/2026
+20,SpaceX Aerospace Intern,internship,Engineering,Rocket engineering internship at SpaceX working on launch systems,Aerospace Engineering Physics Mathematics C++,8,"Chennai, India",8000,4/20/2026
+21,Healthcare Innovation Scholarship,scholarship,Medicine,For students innovating at the intersection of technology and healthcare,Programming Biology Healthcare Research,7.5,India,7500,9/1/2026
+22,Twitter Software Intern,internship,Computer Science,Backend engineering internship working on distributed systems,Java Scala Distributed Systems Python,8.5,"Mumbai, India",8500,4/1/2026
+23,Renewable Energy Scholarship,scholarship,Engineering,For engineering students focused on solar wind and renewable energy systems,Electrical Engineering Physics Mathematics Energy Systems,7.5,India,6500,11/1/2026
+24,Goldman Sachs Finance Intern,internship,Business,Investment banking internship at Goldman Sachs with financial modeling,Finance Excel Python Financial Modeling Statistics,9,"New Delhi, India",9000,3/1/2026
+25,Artificial Intelligence Grant,scholarship,Computer Science,Funding for students researching artificial intelligence and neural networks,Python Machine Learning Deep Learning Mathematics,7.5,India,11000,8/1/2026
+26,Deloitte Consulting Intern,internship,Business,Business consulting internship solving real client problems,Business Analysis Communication Excel Project Management,8.5,India,6000,4/15/2026
+27,Chemistry Research Award,scholarship,Science,Supporting undergraduate chemistry research in materials and pharmaceuticals,Chemistry Laboratory Research Analytical Skills,9,India,7000,7/15/2026
+28,Adobe Creative Intern,internship,Design,Creative technology internship at Adobe working on design tools,JavaScript Python Design Creative Thinking,8,"Bengaluru, India",7500,5/1/2026
+29,Psychology Research Scholarship,scholarship,Psychology,Supporting research in cognitive and behavioral psychology,Psychology Research Statistics Writing Behavioral Analysis,7.5,India,5000,9/30/2026
+30,Salesforce Software Intern,internship,Computer Science,Software development internship at Salesforce working on CRM cloud platform,Java Python JavaScript Apex Cloud,7,"Bengaluru, India",7000,4/20/2026
+31,Public Health Scholarship,scholarship,Medicine,Scholarship for students dedicated to improving public health and medicine,Biology Public Health Research Statistics,8.5,India,8500,10/15/2026
+32,LinkedIn Data Science Intern,internship,Data Science,Data science internship at LinkedIn analyzing professional network data,Python SQL Machine Learning A/B Testing,7.5,"Bengaluru, India",8000,3/25/2026
+33,Architecture Design Grant,scholarship,Design,Supporting innovative architecture students with design excellence,Architecture CAD 3D Modeling Design,8.5,India,6000,8/30/2026
+34,Uber Software Intern,internship,Computer Science,Software engineering internship at Uber building scalable transportation tech,Python Java Distributed Systems Microservices,8,"Mumbai, India",8500,4/10/2026
+35,Mathematics Excellence Award,scholarship,Mathematics,For students with outstanding mathematical ability and research potential,Mathematics Calculus Statistics Proofs Linear Algebra,8,India,9000,9/1/2026
+36,Airbnb Product Intern,internship,Business,Product management internship at Airbnb working on travel products,Product Management Business Analysis User Research Communication,8,"Mumbai, India",7000,4/30/2026
+37,Biomedical Engineering Scholarship,scholarship,Engineering,For students working at the intersection of biology and engineering,Biology Engineering Laboratory Research Programming,7.5,India,8000,10/31/2026
+38,Stripe Payments Intern,internship,Computer Science,Financial technology internship at Stripe building payment infrastructure,Python Ruby Distributed Systems APIs,8.5,"Mumbai, India",9000,3/30/2026
+39,Social Work Scholarship,scholarship,Social Sciences,Supporting students dedicated to community service and social justice,Communication Psychology Social Work Research,6,India,4500,11/30/2026
+40,Oracle Database Intern,internship,Computer Science,Database engineering internship at Oracle working on cloud database systems,SQL Java Database Systems Cloud Computing,7,"Bengaluru, India",7000,5/15/2026
+41,Journalism Excellence Grant,scholarship,Communications,For students pursuing investigative journalism and media innovation,Writing Research Communication Media Digital Journalism,8,India,5000,8/15/2026
+42,Palantir Data Engineering Intern,internship,Data Science,Data engineering internship at Palantir building analytical pipelines,Python SQL Data Engineering ETL Spark,7.5,"New Delhi, India",9500,3/15/2026
+43,Marine Biology Scholarship,scholarship,Science,Supporting students passionate about ocean research and marine ecosystems,Biology Chemistry Research Laboratory Field Work,7.5,India,7000,9/15/2026
+44,Snap Mobile Intern,internship,Computer Science,Mobile development internship at Snap building AR and camera features,iOS Android Swift Kotlin Computer Vision,7,"Bengaluru, India",8000,4/5/2026
+45,Education Innovation Scholarship,scholarship,Education,For future educators passionate about technology in teaching,Education Technology Communication Research Teaching,8,India,5500,10/30/2026
+46,Lyft Machine Learning Intern,internship,Data Science,Machine learning internship at Lyft improving ride matching algorithms,Python Machine Learning Optimization Statistics,7.5,"Mumbai, India",8500,3/20/2026
+47,Political Science Research Grant,scholarship,Political Science,Supporting research in government policy international relations and law,Research Writing Political Analysis Communication Statistics,8.5,India,4500,11/15/2026
+48,Pinterest Engineering Intern,internship,Computer Science,Visual search and recommendation engineering internship at Pinterest,Python Machine Learning Computer Vision JavaScript,8.5,"Mumbai, India",8000,4/25/2026
+49,Statistics Research Scholarship,scholarship,Mathematics,For students applying statistical methods to real world problems,Statistics Python R Mathematics Data Analysis,9,India,7500,9/20/2026
+50,Coinbase Blockchain Intern,internship,Computer Science,Blockchain engineering internship at Coinbase on crypto infrastructure,Python Blockchain Cryptography Distributed Systems,8.5,"Remote, India",8500,5/1/2026
